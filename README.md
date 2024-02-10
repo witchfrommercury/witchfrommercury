@@ -53,16 +53,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/witchfrommercury/witchfrommercury/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/21qjxmanfpma6k7novvc6cnxi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21qjxmanfpma6k7novvc6cnxi&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/witchfrommercury/witchfrommercury/output/snake.svg" alt="Snake animation" />
 
 ###
