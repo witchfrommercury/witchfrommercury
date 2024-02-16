@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">🐱 A 3rd Year BS Mechatronics Engineering Student.<br><br>🐱 Currently working on Robotics 2, Control System and Sensors here in GitHub.<br><br>🐱 Interested on editing and UI designs.<br><br>🐱 I love cats.</p>
+<p align="left">🐱 A 3rd Year BS Mechatronics Engineering Student.<br><br>🐱 Currently working on Robotics 2, Control System and Sensors here in GitHub.<br><br>🐱 Interested on editing and UI designs.<br><br>🐱 I love cats and bunnies.</p>
 
 ###
 
