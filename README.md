@@ -1,4 +1,4 @@
-<h2 align="left">Hi  ≽^- ˕ -^≼  ! My name is Kimberly Fabunan and I'm a Mechatronics Engineering Student from Batangas State University</h2>
+<h2 align="left">Hi  ≽^- ˕ -^≼  ! My name is Kimberly Culiat and I'm a Mechatronics Engineering Student from Batangas State University</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">🐱 A 3rd Year BS Mechatronics Engineering Student.<br><br>🐱 Currently working on Robotics 2, Control System and Sensors here in GitHub.<br><br>🐱 Interested on editing and UI designs.<br><br>🐱 I love cats and bunnies.</p>
+<p align="left">🐱 A 3rd Year BS Mechatronics Engineering Student.<br><br>🐱 Currently working on Robotics 2 (FORWARD AND INVERSE KINEMATICS), Control System and Sensors here in GitHub.<br><br>🐱 Interested on editing and UI designs.<br><br>🐱 I love cats and bunnies.</p>
 
 ###
 
